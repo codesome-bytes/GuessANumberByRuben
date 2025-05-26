@@ -21,4 +21,4 @@ To achieve this, the project uses:
 
 ## 🔗 Source Code
 You can find the complete source code here:  
-[👉 Click Here to View Code](https://github.com/codesome-bytes/GuessANumberByRuben)
+[👉 Click Here to View Code](https://github.com/codesome-bytes/GuessANumberByRuben/blob/main/NumberGuessingGameByRuben.py)
